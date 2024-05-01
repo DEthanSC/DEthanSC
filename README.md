@@ -23,8 +23,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=9400D3&reversal=false&section=footer"/>
 
 <div align="left">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DEthanSC&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" alt="stats graph"  />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DEthanSC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" alt="languages graph"/>
+  <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=DEthanSC&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=8A2BE2&text_color=8A2BE2&bg_color=0000" alt="Davi Ethan github stats"  />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEthanSC&layout=compact&hide_border=true&title_color=9400D3&text_color=8A2BE2&bg_color=0000" />
 </div>
 
 ###
