@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=9400D3&reversal=false&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=42&duration=6500&pause=1250&color=9400D3&background=FFFFFF00&center=true&vCenter=true&random=false&width=850&height=100&lines=Hi+everyone%F0%9F%91%8B;I'm+Davi+Ethan!;I'm+19+years+old+%F0%9F%98%8A;I+live+in+Par%C3%A1%2C+Brazil+%F0%9F%8F%98%EF%B8%8F;I'm+a+Systems+Analysis+and+Development+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=42&duration=6500&pause=1250&color=9400D3&background=FFFFFF00&center=true&vCenter=true&random=false&width=850&height=100&lines=Hi+everyone%F0%9F%91%8B;I'm+Davi+Ethan!;I'm+20+years+old+%F0%9F%98%8A;I+live+in+Par%C3%A1%2C+Brazil+%F0%9F%8F%98%EF%B8%8F;I'm+a+Systems+Analysis+and+Development+student" alt="Typing SVG" /></a>
 </div>
 
 <br clear="both">
